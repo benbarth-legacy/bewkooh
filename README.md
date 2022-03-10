@@ -1,6 +1,8 @@
 # bewkooh
 An obsessively simple webhook deployer for any project
 
+### This project has been archived. I'd recommend using [webhookd](https://github.com/ncarlier/webhookd) which is very similar (and more comprehensive).
+
 If you want to deploy directly from your git repositry then *bewkooh* is for you.
 
 ```
